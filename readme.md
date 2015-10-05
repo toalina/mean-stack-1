@@ -6,7 +6,7 @@ We want this assignment to feel like a 'week on the job.' And by that we mean, w
 
 ## The Comp
 
-You can download the view that you are to complete [here](). It is provided as a Photoshop format, if you do not have access to Photoshop, other applications like Pixelmator are able to open these layered files as well.
+You can download the view that you are to complete [here](https://github.com/SEA-Design-Dev/mean-stack-1/tree/master/comps). It is provided as a Photoshop format, if you do not have access to Photoshop, other applications like Pixelmator are able to open these layered files as well.
 
 
 ## The spec
