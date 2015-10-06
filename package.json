@@ -1,0 +1,26 @@
+{
+  "name": "mean-stack-1",
+  "version": "1.0.0",
+  "description": "Code Fellows Week 6 MEAN Stack Project - Alina",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toalina/mean-stack-1.git"
+  },
+  "author": "Alina To <alina.to@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toalina/mean-stack-1/issues"
+  },
+  "homepage": "https://github.com/toalina/mean-stack-1#readme"
+}
